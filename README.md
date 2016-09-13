@@ -120,4 +120,4 @@ robot_arm:random_level(1)
 ```
 Verplaats alle blokken over de lege plaatsen, zodra er geen blokken meer zijn moet de arm stoppen.
 
-![Bonus](https://www.dropbox.com/s/7q4o3xboi5whgop/RobotArm%20Puzzels.docx?dl=0)
+[Bonus opdrachten](https://www.dropbox.com/s/7q4o3xboi5whgop/RobotArm%20Puzzels.docx?dl=0)
